@@ -8,7 +8,7 @@ Denna uppgift består av olika uppgifter som ska klaras av för godkänt.
 
 #### Vilket kommando behöver jag använda i terminalen/kommandoprompten för att klona ditt repository till min dator?
 
-* git add remote origin + https---
+* git remote add origin https://github.com/Fiepie/DT093G----Moment-1.git
 
 ## Av Anne Sophie Wiuff 
 ### anwi2107
